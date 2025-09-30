@@ -3,6 +3,9 @@
 
 This repository contains various projects that utilize different research and data science-relevant APIs to improve the efficiency of data science workflows, research coordination, and participant management. By integrating multiple services, it automates and streamlines tasks in ways that significantly enhance project efficiency.
 
+** This is very much in progress as I migrate all of my projects that utilized APIs into a single space. **
+- Will it be neccesary to complete an API portfolio? We shal see...
+
 ## Key Features:
 - **Google Sheets API**: Automates updates to Google Sheets databases based on RedCap data completion, facilitating seamless data synchronization across platforms.
 - **RedCap API**: Allows for data analysis directly within RedCap, enabling efficient management of project data and participant information. Includes automated data imports at specific time points to initiate project legs and trigger notifications/alerts within RedCap.
