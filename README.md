@@ -18,4 +18,6 @@ This repository includes submodules. Each submodule is an independent repository
 
 - **[Age Cohort Check APIs](#### NEW URL TO BE ADDED)**: Uses the **RedCap API** and **Google Sheets API**, along with Python for CSV editing, to check if participants' assigned record IDs match their ages across the project cohorts. It outputs a CSV file showing any incorrectly assigned participants.
 
-- (more submodules will be added soon...
+- (more submodules will be added soon...)
+
+This will become a full map of my API integrations and scripts
