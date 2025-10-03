@@ -14,7 +14,7 @@ This repository contains various projects that utilize different research and da
 
 ## Submodules
 
-This repository includes  submodules. Each submodule is an independent repository that utilizes APIS. A directory to submodules is detailed below: 
+This repository includes submodules. Each submodule is an independent repository that utilizes APIS. A directory to submodules is detailed below: 
 
 - **[Age Cohort Check APIs](#### NEW URL TO BE ADDED)**: Uses the **RedCap API** and **Google Sheets API**, along with Python for CSV editing, to check if participants' assigned record IDs match their ages across the project cohorts. It outputs a CSV file showing any incorrectly assigned participants.
 
